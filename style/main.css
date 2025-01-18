@@ -103,8 +103,8 @@ html {
   
   .six img {
     display: inline-block;
-    height: 350px;
-    max-width: 100%;
+    height: 300px;
+    max-width: 90%;
     /* height: auto; */
   }
   
@@ -252,7 +252,7 @@ html {
   
   @media screen and (max-width: 500px) {
     .container {
-      width: 90%;
+      width: 100%;
     }
   
     .four .text-box {
@@ -260,7 +260,7 @@ html {
     }
   
     .text-box .fake-btn {
-      bottom: -38px;
+      bottom: -50px;
       right: 5px;
     }
   
